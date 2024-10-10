@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/Patient-Tracking.git
 ```
 ### 2. Navigate to the project folder
 ```bash
-cd patients
+cd Patient-Tracking
 ```
 ### 3. Install dependencies
 ```bash
